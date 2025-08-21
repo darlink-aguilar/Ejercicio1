@@ -1,0 +1,15 @@
+C:\Users\Darlin K\Ejercicio1\cns_presentation\bin\Debug\net9.0\cns_presentation.exe
+C:\Users\Darlin K\Ejercicio1\cns_presentation\bin\Debug\net9.0\cns_presentation.deps.json
+C:\Users\Darlin K\Ejercicio1\cns_presentation\bin\Debug\net9.0\cns_presentation.runtimeconfig.json
+C:\Users\Darlin K\Ejercicio1\cns_presentation\bin\Debug\net9.0\cns_presentation.dll
+C:\Users\Darlin K\Ejercicio1\cns_presentation\bin\Debug\net9.0\cns_presentation.pdb
+C:\Users\Darlin K\Ejercicio1\cns_presentation\obj\Debug\net9.0\cns_presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darlin K\Ejercicio1\cns_presentation\obj\Debug\net9.0\cns_presentation.AssemblyInfoInputs.cache
+C:\Users\Darlin K\Ejercicio1\cns_presentation\obj\Debug\net9.0\cns_presentation.AssemblyInfo.cs
+C:\Users\Darlin K\Ejercicio1\cns_presentation\obj\Debug\net9.0\cns_presentation.csproj.CoreCompileInputs.cache
+C:\Users\Darlin K\Ejercicio1\cns_presentation\obj\Debug\net9.0\cns_presentation.sourcelink.json
+C:\Users\Darlin K\Ejercicio1\cns_presentation\obj\Debug\net9.0\cns_presentation.dll
+C:\Users\Darlin K\Ejercicio1\cns_presentation\obj\Debug\net9.0\refint\cns_presentation.dll
+C:\Users\Darlin K\Ejercicio1\cns_presentation\obj\Debug\net9.0\cns_presentation.pdb
+C:\Users\Darlin K\Ejercicio1\cns_presentation\obj\Debug\net9.0\cns_presentation.genruntimeconfig.cache
+C:\Users\Darlin K\Ejercicio1\cns_presentation\obj\Debug\net9.0\ref\cns_presentation.dll
