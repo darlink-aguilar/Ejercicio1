@@ -7,6 +7,9 @@ moto1.Precio = 1.0m;
 moto1.Funcionalidad = true;
 moto1.Fecha = DateTime.Now;
 moto1.Color = "Negro";
+moto1.videojuegos = new List<Videojuegos>();
+
+Console.WriteLine(moto1.Placa);
 public class Vehiculos
 {
     public int Placa;
@@ -14,6 +17,7 @@ public class Vehiculos
     public decimal Precio;
     public bool Funcionalidad;
     public DateTime Fecha;
+    public List<Videojuegos> videojuegos;
 }
 
 public class Motos : Vehiculos
@@ -27,4 +31,9 @@ public class Clientes
     public string? Nombre;
     public decimal Estatura;
     public Vehiculos? Vehiculo;
+}
+
+public class Videojuegos
+{
+
 }
