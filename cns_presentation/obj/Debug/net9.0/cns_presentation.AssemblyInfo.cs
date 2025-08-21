@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cns_presentation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a68a8fb425f5601f89a5d1c34f45214fb9da623")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73802bc856fe51d50d45548e0ca1201fdf817656")]
 [assembly: System.Reflection.AssemblyProductAttribute("cns_presentation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cns_presentation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
